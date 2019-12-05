@@ -19,7 +19,7 @@ SessionID используется для построения моделей а
 ![](http://roomcontent.ru/img/session-id-img-02.png)
 
 После того, как пользовательский параметр создан, необходимо запомнить его индекс, отображаемый в списке
-![](http://roomcontent.ru/img/session-id-img-03.png)
+![](http://roomcontent.ru/img/session-id-img-031.png)
 
 
 ### Настройка Google Tag Manager
